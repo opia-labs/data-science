@@ -1,0 +1,1339 @@
+charges,bmi,age,cluster
+16884.924,Overweight,Young Adult,0
+1725.5523,obese,Young Adult,2
+4449.462,obese,Young Adult,2
+21984.47061,Normalweight,Young Adult,3
+3866.8552,Overweight,Young Adult,2
+3756.6216,Overweight,Young Adult,2
+8240.5896,obese,Senior Adult,0
+7281.5056,Overweight,Senior Adult,2
+6406.4107,Overweight,Senior Adult,2
+28923.136919999997,Overweight,Elder,3
+2721.3208,Overweight,Young Adult,2
+27808.7251,Overweight,Elder,3
+1826.8429999999998,obese,Young Adult,2
+11090.7178,obese,Elder,0
+39611.7577,obese,Young Adult,1
+1837.237,Overweight,Young Adult,2
+10797.3362,obese,Senior Adult,0
+2395.17155,Normalweight,Young Adult,2
+10602.385,obese,Elder,0
+36837.467000000004,obese,Young Adult,1
+13228.84695,obese,Elder,0
+4149.736,obese,Young Adult,2
+1137.011,obese,Young Adult,2
+37701.8768,obese,Young Adult,1
+6203.90175,Overweight,Senior Adult,2
+14001.1338,Overweight,Elder,0
+14451.83515,Normalweight,Elder,0
+12268.63225,obese,Senior Adult,0
+2775.19215,Underweight,Young Adult,2
+38711.0,obese,Young Adult,1
+35585.576,obese,Young Adult,1
+2198.18985,Overweight,Young Adult,2
+4687.7970000000005,Overweight,Young Adult,2
+13770.0979,Overweight,Elder,0
+51194.55914,obese,Young Adult,1
+1625.43375,Normalweight,Young Adult,2
+15612.19335,obese,Elder,0
+2302.3,Normalweight,Young Adult,2
+39774.2763,obese,Young Adult,1
+48173.361,obese,Elder,1
+3046.062,Overweight,Young Adult,2
+4949.7587,obese,Young Adult,2
+6272.4772,Normalweight,Senior Adult,2
+6313.759,obese,Senior Adult,2
+6079.6715,obese,Senior Adult,2
+20630.28351,obese,Senior Adult,3
+3393.35635,obese,Young Adult,2
+3556.9223,obese,Young Adult,2
+12629.8967,Overweight,Elder,0
+38709.176,obese,Senior Adult,1
+2211.13075,obese,Young Adult,2
+3579.8287,obese,Young Adult,2
+23568.272,Overweight,Senior Adult,3
+37742.5757,obese,Senior Adult,1
+8059.6791,Overweight,Senior Adult,0
+47496.49445,obese,Elder,1
+13607.36875,obese,Elder,0
+34303.1672,obese,Young Adult,1
+23244.7902,Normalweight,Senior Adult,3
+5989.52365,obese,Young Adult,2
+8606.2174,Overweight,Senior Adult,0
+4504.6624,obese,Young Adult,2
+30166.618169999998,Overweight,Elder,3
+4133.64165,Overweight,Young Adult,2
+14711.7438,Normalweight,Young Adult,0
+1743.214,Overweight,Young Adult,2
+14235.072,obese,Elder,0
+6389.37785,Overweight,Senior Adult,2
+5920.1041,obese,Senior Adult,2
+17663.1442,Normalweight,Young Adult,3
+16577.7795,Overweight,Young Adult,0
+6799.4580000000005,Overweight,Young Adult,2
+11741.726,Overweight,Senior Adult,0
+11946.6259,obese,Elder,0
+7726.854,Overweight,Senior Adult,2
+11356.6609,obese,Elder,0
+3947.4131,Overweight,Young Adult,2
+1532.4697,obese,Young Adult,2
+2755.02095,obese,Young Adult,2
+6571.02435,obese,Senior Adult,2
+4441.21315,Overweight,Young Adult,2
+7935.29115,obese,Senior Adult,0
+37165.1638,obese,Young Adult,1
+11033.6617,obese,Senior Adult,0
+39836.519,obese,Senior Adult,1
+21098.55405,Normalweight,Senior Adult,3
+43578.9394,obese,Elder,1
+11073.176000000001,Overweight,Elder,0
+8026.6666,Overweight,Senior Adult,0
+11082.5772,Overweight,Senior Adult,0
+2026.9741,obese,Young Adult,2
+10942.13205,Overweight,Senior Adult,0
+30184.9367,Overweight,Elder,3
+5729.0053,obese,Young Adult,2
+47291.055,obese,Elder,1
+3766.8838,obese,Young Adult,2
+12105.32,obese,Senior Adult,0
+10226.2842,obese,Senior Adult,0
+22412.6485,Normalweight,Elder,3
+15820.698999999999,Normalweight,Senior Adult,0
+6186.1269999999995,obese,Senior Adult,2
+3645.0894,Overweight,Young Adult,2
+21344.8467,obese,Young Adult,3
+30942.1918,Overweight,Elder,3
+5003.853,Overweight,Young Adult,2
+17560.37975,Overweight,Young Adult,3
+2331.519,Overweight,Young Adult,2
+3877.30425,obese,Young Adult,2
+2867.1196,Overweight,Young Adult,2
+47055.5321,obese,Elder,1
+10825.2537,obese,Senior Adult,0
+11881.358,Overweight,Senior Adult,0
+4646.759,obese,Senior Adult,2
+2404.7338,obese,Young Adult,2
+11488.31695,obese,Senior Adult,0
+30259.995560000003,Overweight,Elder,3
+11381.3254,obese,Elder,0
+19107.7796,Overweight,Young Adult,3
+8601.3293,Overweight,Senior Adult,0
+6686.4313,Normalweight,Senior Adult,2
+7740.3369999999995,obese,Senior Adult,2
+1705.6245,Normalweight,Young Adult,2
+2257.47525,Overweight,Young Adult,2
+39556.4945,obese,Senior Adult,1
+10115.00885,obese,Senior Adult,0
+3385.39915,Overweight,Young Adult,2
+17081.08,Overweight,Young Adult,3
+9634.538,obese,Senior Adult,0
+32734.1863,Underweight,Young Adult,1
+6082.405,obese,Senior Adult,2
+12815.44495,Overweight,Elder,0
+13616.3586,Normalweight,Elder,0
+11163.568000000001,obese,Senior Adult,0
+1632.56445,Overweight,Young Adult,2
+2457.21115,Overweight,Young Adult,2
+2155.6815,Overweight,Young Adult,2
+1261.442,obese,Young Adult,2
+2045.68525,Overweight,Young Adult,2
+27322.733860000004,obese,Senior Adult,3
+2166.732,obese,Young Adult,2
+27375.90478,Normalweight,Young Adult,3
+3490.5491,obese,Young Adult,2
+18972.495,Overweight,Young Adult,3
+18157.876,Overweight,Young Adult,3
+20745.9891,Overweight,Young Adult,3
+5138.2567,obese,Young Adult,2
+40720.55105,obese,Senior Adult,1
+9877.6077,obese,Senior Adult,0
+10959.6947,obese,Senior Adult,0
+1842.519,Overweight,Young Adult,2
+5125.2157,Normalweight,Young Adult,2
+7789.635,Overweight,Senior Adult,0
+6334.34355,obese,Young Adult,2
+19964.7463,Normalweight,Senior Adult,3
+7077.1894,Overweight,Senior Adult,2
+6948.7008,obese,Senior Adult,2
+21223.6758,Normalweight,Senior Adult,3
+15518.18025,Overweight,Young Adult,0
+36950.2567,obese,Young Adult,1
+19749.383380000003,Overweight,Senior Adult,3
+21348.706000000002,Overweight,Senior Adult,3
+36149.4835,obese,Young Adult,1
+10450.552,obese,Senior Adult,0
+5152.134,Overweight,Young Adult,2
+5028.1466,Overweight,Senior Adult,2
+10407.08585,Overweight,Senior Adult,0
+4830.63,obese,Young Adult,2
+6128.79745,obese,Young Adult,2
+2719.27975,obese,Young Adult,2
+4827.90495,Normalweight,Young Adult,2
+13405.3903,obese,Elder,0
+8116.68,obese,Senior Adult,0
+1694.7964,Underweight,Young Adult,2
+5246.047,obese,Young Adult,2
+2855.43755,obese,Young Adult,2
+48824.45,obese,Elder,1
+6455.86265,Overweight,Senior Adult,2
+10436.096,Overweight,Senior Adult,0
+8823.279,Overweight,Senior Adult,0
+8538.28845,obese,Senior Adult,0
+11735.87905,Overweight,Elder,0
+1631.8212,obese,Young Adult,2
+4005.4225,Normalweight,Young Adult,2
+7419.4779,Overweight,Senior Adult,2
+7731.4271,obese,Senior Adult,2
+43753.33705,obese,Senior Adult,1
+3981.9768,Overweight,Young Adult,2
+5325.651,obese,Young Adult,2
+6775.960999999999,obese,Senior Adult,2
+4922.9159,obese,Young Adult,2
+12557.6053,obese,Elder,0
+4883.866,Overweight,Senior Adult,2
+2137.6536,Overweight,Young Adult,2
+12044.341999999999,Overweight,Elder,0
+1137.4697,obese,Young Adult,2
+1639.5631,obese,Young Adult,2
+5649.715,obese,Senior Adult,2
+8516.829,Overweight,Senior Adult,0
+9644.2525,Underweight,Senior Adult,0
+14901.5167,obese,Elder,0
+2130.6759,obese,Young Adult,2
+8871.1517,obese,Senior Adult,0
+13012.20865,Normalweight,Elder,0
+37133.8982,obese,Young Adult,1
+7147.105,Normalweight,Senior Adult,2
+4337.7352,Overweight,Young Adult,2
+11743.298999999999,Overweight,Elder,0
+20984.0936,Overweight,Young Adult,3
+13880.948999999999,obese,Elder,0
+6610.1097,obese,Senior Adult,2
+1980.07,obese,Young Adult,2
+8162.71625,obese,Senior Adult,0
+3537.703,Overweight,Young Adult,2
+5002.7827,Overweight,Young Adult,2
+8520.026,obese,Senior Adult,0
+7371.772,obese,Senior Adult,2
+10355.641,Overweight,Senior Adult,0
+2483.736,Normalweight,Young Adult,2
+3392.9768,Overweight,Young Adult,2
+25081.76784,Normalweight,Young Adult,3
+5012.471,obese,Young Adult,2
+10564.8845,obese,Senior Adult,0
+5253.524,obese,Young Adult,2
+34779.615,obese,Young Adult,1
+19515.5416,Overweight,Senior Adult,3
+11987.1682,obese,Senior Adult,0
+2689.4954,obese,Young Adult,2
+24227.33724,obese,Elder,3
+7358.17565,obese,Senior Adult,2
+9225.2564,Overweight,Senior Adult,0
+7443.64305,obese,Senior Adult,2
+14001.2867,Overweight,Elder,0
+1727.785,Underweight,Young Adult,2
+12333.828000000001,Overweight,Elder,0
+6710.1919,Overweight,Senior Adult,2
+19444.2658,Normalweight,Senior Adult,3
+1615.7667,Overweight,Young Adult,2
+4463.2051,obese,Young Adult,2
+17352.6803,Overweight,Young Adult,3
+7152.6714,obese,Senior Adult,2
+38511.6283,obese,Young Adult,1
+5354.07465,Normalweight,Young Adult,2
+35160.13457,Overweight,Senior Adult,1
+7196.866999999999,obese,Senior Adult,2
+29523.1656,Overweight,Elder,3
+24476.47851,obese,Senior Adult,3
+12648.7034,obese,Elder,0
+1986.9334,obese,Young Adult,2
+1832.094,Normalweight,Young Adult,2
+4040.55825,Overweight,Young Adult,2
+12829.4551,Underweight,Young Adult,0
+47305.305,obese,Elder,1
+44260.7499,obese,Senior Adult,1
+4260.744000000001,obese,Young Adult,2
+41097.16175,obese,Senior Adult,1
+13047.33235,Overweight,Senior Adult,0
+43921.1837,obese,Elder,1
+5400.9805,obese,Senior Adult,2
+11520.09985,Normalweight,Senior Adult,0
+33750.2918,obese,Young Adult,1
+11837.16,Overweight,Elder,0
+17085.2676,Overweight,Young Adult,3
+24869.8368,Normalweight,Senior Adult,3
+36219.40545,obese,Young Adult,1
+20462.99766,obese,Senior Adult,3
+46151.1245,obese,Senior Adult,1
+17179.522,Normalweight,Senior Adult,3
+14590.63205,obese,Elder,0
+7441.053000000001,obese,Senior Adult,2
+9282.4806,Overweight,Senior Adult,0
+1719.4363,Overweight,Young Adult,2
+42856.837999999996,obese,Senior Adult,1
+7265.7025,obese,Senior Adult,2
+9617.66245,Overweight,Senior Adult,0
+2523.1695,Overweight,Young Adult,2
+9715.841,Overweight,Senior Adult,0
+2803.69785,Normalweight,Young Adult,2
+2150.469,Normalweight,Young Adult,2
+12928.7911,obese,Elder,0
+9855.1314,Normalweight,Senior Adult,0
+22331.5668,Overweight,Senior Adult,3
+48549.17835,obese,Senior Adult,1
+4237.12655,Overweight,Young Adult,2
+11879.10405,obese,Senior Adult,0
+9625.92,obese,Senior Adult,0
+7742.1098,Overweight,Senior Adult,2
+9432.9253,obese,Senior Adult,0
+14256.1928,Overweight,Elder,0
+47896.79135,obese,Elder,1
+25992.82104,Overweight,Senior Adult,3
+3172.018,obese,Young Adult,2
+20277.80751,Overweight,Young Adult,3
+42112.2356,obese,Young Adult,1
+2156.7518,Overweight,Young Adult,2
+3906.127,Overweight,Young Adult,2
+1704.5681,Normalweight,Young Adult,2
+16297.846000000001,Overweight,Young Adult,0
+21978.6769,Overweight,Senior Adult,3
+38746.3551,obese,Young Adult,1
+9249.4952,Overweight,Senior Adult,0
+6746.7425,Overweight,Senior Adult,2
+24873.3849,Normalweight,Senior Adult,3
+12265.5069,obese,Elder,0
+4349.462,obese,Young Adult,2
+12646.207,obese,Elder,0
+19442.3535,obese,Young Adult,3
+20177.671130000002,Overweight,Young Adult,3
+4151.0287,obese,Young Adult,2
+11944.59435,obese,Elder,0
+7749.1564,obese,Senior Adult,2
+8444.474,Overweight,Senior Adult,0
+1737.376,Overweight,Young Adult,2
+42124.5153,obese,Senior Adult,1
+8124.4084,obese,Senior Adult,0
+34838.873,obese,Young Adult,1
+9722.7695,obese,Senior Adult,0
+8835.26495,obese,Senior Adult,0
+10435.06525,obese,Senior Adult,0
+7421.19455,Overweight,Senior Adult,2
+4667.60765,obese,Young Adult,2
+4894.7533,Overweight,Young Adult,2
+24671.66334,Overweight,Young Adult,3
+35491.64,obese,Young Adult,1
+11566.30055,obese,Elder,0
+2866.091,Overweight,Young Adult,2
+6600.20595,obese,Senior Adult,2
+3561.8889,Normalweight,Young Adult,2
+42760.5022,obese,Senior Adult,1
+47928.03,obese,Elder,1
+9144.565,obese,Senior Adult,0
+48517.56315,obese,Elder,1
+24393.6224,Overweight,Senior Adult,3
+13429.0354,obese,Elder,0
+11658.37915,Overweight,Elder,0
+19144.57652,obese,Senior Adult,3
+13822.803,obese,Elder,0
+12142.5786,Overweight,Elder,0
+13937.6665,Overweight,Elder,0
+41919.097,obese,Senior Adult,1
+8232.6388,Overweight,Senior Adult,0
+18955.22017,Overweight,Young Adult,3
+13352.0998,obese,Elder,0
+13217.0945,Overweight,Elder,0
+13981.85035,obese,Elder,0
+10977.2063,obese,Senior Adult,0
+6184.2994,Overweight,Young Adult,2
+4889.9995,obese,Young Adult,2
+8334.45755,obese,Senior Adult,0
+5478.0368,Overweight,Senior Adult,2
+1635.73365,Overweight,Young Adult,2
+11830.6072,Normalweight,Elder,0
+8932.084,Overweight,Senior Adult,0
+3554.203,Overweight,Young Adult,2
+12404.8791,obese,Young Adult,0
+14133.03775,obese,Young Adult,0
+24603.04837,Overweight,Senior Adult,3
+8944.1151,obese,Senior Adult,0
+9620.3307,Overweight,Senior Adult,0
+1837.2819,obese,Young Adult,2
+1607.5101,Normalweight,Young Adult,2
+10043.249,obese,Senior Adult,0
+4751.07,obese,Young Adult,2
+13844.506000000001,Normalweight,Young Adult,0
+2597.779,Overweight,Young Adult,2
+3180.5101,Normalweight,Young Adult,2
+9778.3472,obese,Senior Adult,0
+13430.265,obese,Elder,0
+8017.06115,Overweight,Senior Adult,0
+8116.26885,obese,Senior Adult,0
+3481.868,obese,Young Adult,2
+13415.0381,Normalweight,Elder,0
+12029.2867,Normalweight,Elder,0
+7639.41745,obese,Senior Adult,2
+36085.219,obese,Young Adult,1
+1391.5287,obese,Young Adult,2
+18033.9679,Overweight,Young Adult,3
+21659.9301,Overweight,Senior Adult,3
+38126.2465,obese,Young Adult,1
+16455.70785,obese,Elder,0
+27000.98473,obese,Elder,3
+15006.57945,Underweight,Young Adult,0
+42303.69215,obese,Senior Adult,1
+20781.48892,obese,Senior Adult,3
+5846.9176,obese,Young Adult,2
+8302.53565,Normalweight,Senior Adult,0
+1261.859,obese,Young Adult,2
+11856.4115,obese,Elder,0
+30284.642939999998,Overweight,Senior Adult,3
+3176.8159,Normalweight,Young Adult,2
+4618.0799,obese,Young Adult,2
+10736.87075,obese,Senior Adult,0
+2138.0707,obese,Young Adult,2
+8964.06055,obese,Senior Adult,0
+9290.1395,obese,Senior Adult,0
+9411.005,obese,Senior Adult,0
+7526.70645,Normalweight,Senior Adult,2
+8522.003,obese,Senior Adult,0
+16586.49771,obese,Young Adult,0
+14988.431999999999,Overweight,Elder,0
+1631.6683,obese,Young Adult,2
+9264.796999999999,Normalweight,Senior Adult,0
+8083.9198,obese,Senior Adult,0
+14692.66935,obese,Elder,0
+10269.46,obese,Senior Adult,0
+3260.199,Normalweight,Young Adult,2
+11396.9002,obese,Senior Adult,0
+4185.0979,Normalweight,Young Adult,2
+8539.671,Normalweight,Senior Adult,0
+6652.5288,Normalweight,Senior Adult,2
+4074.4537,obese,Young Adult,2
+1621.3402,Underweight,Young Adult,2
+19594.80965,Normalweight,Senior Adult,3
+14455.64405,Underweight,Young Adult,0
+5080.096,Normalweight,Young Adult,2
+2134.9015,obese,Young Adult,2
+7345.7266,obese,Senior Adult,2
+9140.951,obese,Senior Adult,0
+18608.262,Normalweight,Senior Adult,3
+14418.2804,obese,Elder,0
+28950.4692,Overweight,Elder,3
+46889.2612,obese,Elder,1
+46599.1084,obese,Elder,1
+39125.33225,obese,Senior Adult,1
+2727.3951,obese,Young Adult,2
+8968.33,obese,Senior Adult,0
+9788.8659,Normalweight,Senior Adult,0
+6555.07035,Overweight,Senior Adult,2
+7323.734818999999,Overweight,Young Adult,2
+3167.45585,Underweight,Young Adult,2
+18804.7524,obese,Young Adult,3
+23082.95533,obese,Young Adult,3
+4906.40965,Normalweight,Young Adult,2
+5969.723000000001,Overweight,Senior Adult,2
+12638.195,obese,Elder,0
+4243.59005,Overweight,Young Adult,2
+13919.8229,obese,Elder,0
+2254.7967,obese,Young Adult,2
+5926.846,Overweight,Young Adult,2
+12592.5345,obese,Senior Adult,0
+2897.3235,Overweight,Young Adult,2
+4738.2682,obese,Young Adult,2
+37079.372,obese,Young Adult,1
+1149.3959,obese,Young Adult,2
+28287.897660000002,obese,Elder,3
+26109.32905,Overweight,Elder,3
+7345.084,obese,Senior Adult,2
+12730.9996,Overweight,Elder,0
+11454.0215,Overweight,Elder,0
+5910.944,Overweight,Senior Adult,2
+4762.329000000001,obese,Young Adult,2
+7512.267,Overweight,Senior Adult,2
+4032.2407,Normalweight,Young Adult,2
+1969.614,Normalweight,Young Adult,2
+1769.53165,Overweight,Young Adult,2
+4686.3887,obese,Young Adult,2
+21797.0004,obese,Elder,3
+11881.9696,obese,Senior Adult,0
+11840.77505,obese,Elder,0
+10601.412,obese,Elder,0
+7682.67,obese,Senior Adult,2
+10381.4787,obese,Senior Adult,0
+22144.032000000003,Overweight,Senior Adult,3
+15230.32405,obese,Elder,0
+11165.41765,Overweight,Elder,0
+1632.03625,Overweight,Young Adult,2
+19521.9682,Overweight,Young Adult,3
+13224.693000000001,Overweight,Elder,0
+12643.3778,obese,Elder,0
+23288.9284,Normalweight,Young Adult,3
+2201.0971,Normalweight,Young Adult,2
+2497.0383,obese,Young Adult,2
+2203.47185,obese,Young Adult,2
+1744.465,Overweight,Young Adult,2
+20878.78443,obese,Senior Adult,3
+25382.297000000002,Overweight,Senior Adult,3
+28868.6639,Overweight,Elder,3
+35147.52848,Overweight,Young Adult,1
+2534.39375,obese,Young Adult,2
+1534.3045,obese,Young Adult,2
+1824.2854,obese,Young Adult,2
+15555.18875,obese,Elder,0
+9304.7019,obese,Senior Adult,0
+1622.1885,obese,Young Adult,2
+9880.068000000001,obese,Senior Adult,0
+9563.029,obese,Senior Adult,0
+4347.02335,obese,Young Adult,2
+12475.3513,Normalweight,Senior Adult,0
+1253.9360000000001,Overweight,Young Adult,2
+48885.135610000005,obese,Senior Adult,1
+10461.9794,obese,Senior Adult,0
+1748.774,obese,Young Adult,2
+24513.09126,Overweight,Elder,3
+2196.4732,Overweight,Young Adult,2
+12574.048999999999,obese,Elder,0
+17942.106,Overweight,Young Adult,3
+1967.0227,Overweight,Young Adult,2
+4931.647,Normalweight,Young Adult,2
+8027.968000000001,Overweight,Senior Adult,0
+8211.1002,Normalweight,Senior Adult,0
+13470.86,obese,Elder,0
+36197.699,obese,Young Adult,1
+6837.3687,Overweight,Senior Adult,2
+22218.1149,Normalweight,Senior Adult,3
+32548.3405,obese,Young Adult,1
+5974.3847,Overweight,Senior Adult,2
+6796.86325,obese,Senior Adult,2
+2643.2685,obese,Young Adult,2
+3077.0955,Normalweight,Young Adult,2
+3044.2133,Overweight,Young Adult,2
+11455.28,Overweight,Elder,0
+11763.0009,obese,Elder,0
+2498.4144,obese,Young Adult,2
+9361.3268,Normalweight,Senior Adult,0
+1256.299,obese,Young Adult,2
+21082.16,Overweight,Senior Adult,3
+11362.755,obese,Elder,0
+27724.28875,obese,Young Adult,3
+8413.46305,obese,Senior Adult,0
+5240.765,obese,Young Adult,2
+3857.75925,obese,Young Adult,2
+25656.575259999998,Overweight,Senior Adult,3
+3994.1778,obese,Young Adult,2
+9866.30485,obese,Senior Adult,0
+5397.6167,obese,Senior Adult,2
+38245.59327,Overweight,Senior Adult,1
+11482.63485,obese,Young Adult,0
+24059.68019,obese,Young Adult,3
+9861.025,Overweight,Senior Adult,0
+8342.90875,obese,Senior Adult,0
+1708.0014,Overweight,Young Adult,2
+48675.5177,obese,Elder,1
+14043.4767,obese,Elder,0
+12925.886,Overweight,Elder,0
+19214.705530000003,obese,Senior Adult,3
+13831.1152,obese,Elder,0
+6067.12675,Overweight,Senior Adult,2
+5972.378000000001,obese,Young Adult,2
+8825.086,obese,Senior Adult,0
+8233.0975,Overweight,Senior Adult,0
+27346.04207,obese,Senior Adult,3
+6196.448,obese,Young Adult,2
+3056.3881,obese,Young Adult,2
+13887.204,obese,Elder,0
+63770.42801,obese,Senior Adult,1
+10231.4999,obese,Senior Adult,0
+23807.2406,Overweight,Senior Adult,3
+3268.84665,obese,Young Adult,2
+11538.421,obese,Senior Adult,0
+3213.62205,Overweight,Young Adult,2
+45863.205,obese,Senior Adult,1
+13390.559,obese,Elder,0
+3972.9247,Overweight,Young Adult,2
+12957.118,Normalweight,Elder,0
+11187.6567,obese,Senior Adult,0
+17878.900680000002,obese,Young Adult,3
+3847.6740000000004,Normalweight,Young Adult,2
+8334.5896,obese,Senior Adult,0
+3935.1799,obese,Young Adult,2
+39983.42595,obese,Young Adult,1
+1646.4297,obese,Young Adult,2
+9193.8385,Normalweight,Senior Adult,0
+10923.9332,obese,Senior Adult,0
+2494.022,obese,Young Adult,2
+9058.7303,obese,Senior Adult,0
+2801.2588,obese,Young Adult,2
+2128.43105,obese,Young Adult,2
+6373.55735,obese,Senior Adult,2
+7256.7231,obese,Senior Adult,2
+11552.903999999999,obese,Senior Adult,0
+45702.02235,obese,Senior Adult,1
+3761.292,Overweight,Young Adult,2
+2219.4451,obese,Young Adult,2
+4753.6368,obese,Young Adult,2
+31620.001060000002,obese,Elder,3
+13224.05705,obese,Elder,0
+12222.8983,Overweight,Elder,0
+1664.9996,Overweight,Young Adult,2
+58571.074479999996,obese,Young Adult,1
+9724.53,obese,Senior Adult,0
+3206.49135,Normalweight,Young Adult,2
+12913.9924,Overweight,Elder,0
+1639.5631,obese,Young Adult,2
+6356.2707,obese,Senior Adult,2
+17626.23951,Normalweight,Young Adult,3
+1242.816,Normalweight,Young Adult,2
+4779.6023,Overweight,Young Adult,2
+3861.20965,Normalweight,Young Adult,2
+43943.8761,obese,Young Adult,1
+13635.6379,obese,Elder,0
+5976.8311,obese,Senior Adult,2
+11842.442,Overweight,Elder,0
+8428.0693,Normalweight,Senior Adult,0
+2566.4707,obese,Young Adult,2
+15359.1045,Normalweight,Young Adult,0
+5709.1644,obese,Senior Adult,2
+8823.98575,obese,Senior Adult,0
+7640.3092,Overweight,Senior Adult,2
+5594.8455,obese,Young Adult,2
+7441.501,obese,Senior Adult,2
+33471.97189,obese,Senior Adult,1
+1633.0444,obese,Young Adult,2
+9174.13565,obese,Senior Adult,0
+11070.535,Overweight,Elder,0
+16085.1275,obese,Elder,0
+17468.9839,Overweight,Young Adult,3
+9283.562,obese,Senior Adult,0
+3558.62025,Overweight,Young Adult,2
+25678.77845,Normalweight,Elder,3
+4435.0942,Overweight,Young Adult,2
+39241.442,obese,Young Adult,1
+8547.6913,Overweight,Senior Adult,0
+6571.544,obese,Senior Adult,2
+2207.69745,obese,Young Adult,2
+6753.0380000000005,Normalweight,Young Adult,2
+1880.07,obese,Young Adult,2
+42969.8527,obese,Senior Adult,1
+11658.11505,Overweight,Elder,0
+23306.547000000002,Overweight,Senior Adult,3
+34439.8559,obese,Young Adult,1
+10713.643999999998,obese,Senior Adult,0
+3659.3459999999995,obese,Young Adult,2
+40182.246,obese,Senior Adult,1
+9182.17,Normalweight,Senior Adult,0
+34617.84065,obese,Young Adult,1
+12129.61415,Overweight,Elder,0
+3736.4647,Overweight,Young Adult,2
+6748.5912,Overweight,Senior Adult,2
+11326.71487,obese,Young Adult,0
+11365.952,obese,Elder,0
+42983.4585,obese,Senior Adult,1
+10085.846,obese,Senior Adult,0
+1977.815,Overweight,Young Adult,2
+3366.6697,obese,Young Adult,2
+7173.35995,Normalweight,Senior Adult,2
+9391.346,obese,Senior Adult,0
+14410.9321,obese,Elder,0
+2709.1119,Overweight,Young Adult,2
+24915.04626,obese,Young Adult,3
+20149.3229,Overweight,Senior Adult,3
+12949.1554,obese,Elder,0
+6666.243,obese,Young Adult,2
+32787.458589999995,Overweight,Senior Adult,1
+13143.86485,obese,Elder,0
+4466.6214,obese,Young Adult,2
+18806.14547,obese,Senior Adult,3
+10141.1362,obese,Senior Adult,0
+6123.5688,Overweight,Senior Adult,2
+8252.2843,Normalweight,Senior Adult,0
+1712.227,Overweight,Young Adult,2
+12430.95335,obese,Elder,0
+9800.8882,obese,Senior Adult,0
+10579.711000000001,obese,Senior Adult,0
+8280.6227,obese,Senior Adult,0
+8527.532,obese,Senior Adult,0
+12244.531,obese,Elder,0
+24667.418999999998,Overweight,Senior Adult,3
+3410.324,obese,Young Adult,2
+4058.71245,obese,Young Adult,2
+26392.260290000002,obese,Senior Adult,3
+14394.39815,Overweight,Elder,0
+6435.6237,obese,Senior Adult,2
+22192.43711,Normalweight,Elder,3
+5148.5526,obese,Young Adult,2
+1136.3994,obese,Young Adult,2
+27037.9141,Normalweight,Elder,3
+42560.4304,obese,Senior Adult,1
+8703.456,Overweight,Senior Adult,0
+40003.33225,obese,Senior Adult,1
+45710.20785,obese,Elder,1
+6500.2359,Overweight,Senior Adult,2
+4837.5823,obese,Young Adult,2
+3943.5954,obese,Young Adult,2
+4399.731,Overweight,Senior Adult,2
+6185.3208,obese,Senior Adult,2
+46200.9851,obese,Senior Adult,1
+7222.78625,Normalweight,Senior Adult,2
+12485.8009,obese,Senior Adult,0
+46130.5265,obese,Elder,1
+12363.546999999999,obese,Elder,0
+10156.7832,Normalweight,Senior Adult,0
+2585.269,Underweight,Young Adult,2
+1242.26,Normalweight,Young Adult,2
+40103.89,obese,Senior Adult,1
+9863.4718,Normalweight,Senior Adult,0
+4766.022,Underweight,Young Adult,2
+11244.3769,Overweight,Senior Adult,0
+7729.64575,Overweight,Senior Adult,2
+5438.7491,obese,Senior Adult,2
+26236.57997,Normalweight,Senior Adult,3
+34806.4677,obese,Young Adult,1
+2104.1134,Overweight,Young Adult,2
+8068.185,obese,Senior Adult,0
+2362.22905,obese,Young Adult,2
+2352.96845,Normalweight,Young Adult,2
+3577.9990000000003,obese,Young Adult,2
+3201.24515,obese,Young Adult,2
+29186.48236,obese,Senior Adult,3
+40273.6455,obese,Senior Adult,1
+10976.24575,obese,Elder,0
+3500.6123,obese,Young Adult,2
+2020.5523,obese,Young Adult,2
+9541.69555,obese,Senior Adult,0
+9504.3103,obese,Senior Adult,0
+5385.3379,Overweight,Young Adult,2
+8930.93455,Overweight,Senior Adult,0
+5375.0380000000005,obese,Young Adult,2
+44400.4064,obese,Senior Adult,1
+10264.4421,Overweight,Senior Adult,0
+6113.23105,obese,Young Adult,2
+5469.0066,Overweight,Senior Adult,2
+1727.54,obese,Young Adult,2
+10107.2206,Normalweight,Senior Adult,0
+8310.83915,obese,Senior Adult,0
+1984.4533,obese,Young Adult,2
+2457.502,Normalweight,Young Adult,2
+12146.971000000001,Overweight,Elder,0
+9566.9909,Normalweight,Senior Adult,0
+13112.6048,Normalweight,Elder,0
+10848.1343,obese,Senior Adult,0
+12231.6136,obese,Elder,0
+9875.6804,obese,Senior Adult,0
+11264.541000000001,obese,Senior Adult,0
+12979.358,obese,Elder,0
+1263.249,obese,Young Adult,2
+10106.13425,Overweight,Senior Adult,0
+40932.4295,obese,Young Adult,1
+6664.68595,Overweight,Senior Adult,2
+16657.71745,Normalweight,Young Adult,0
+2217.6012,obese,Young Adult,2
+6781.3542,obese,Senior Adult,2
+19361.9988,Normalweight,Young Adult,3
+10065.413,Normalweight,Senior Adult,0
+4234.927,obese,Young Adult,2
+9447.25035,Overweight,Senior Adult,0
+14007.222,obese,Elder,0
+9583.8933,obese,Senior Adult,0
+40419.0191,obese,Senior Adult,1
+3484.3309999999997,Normalweight,Young Adult,2
+36189.1017,obese,Young Adult,1
+44585.45587,obese,Young Adult,1
+8604.48365,Normalweight,Senior Adult,0
+18246.4955,Overweight,Young Adult,3
+43254.41795,obese,Senior Adult,1
+3757.8448,Overweight,Young Adult,2
+8827.2099,Overweight,Senior Adult,0
+9910.35985,obese,Senior Adult,0
+11737.84884,Overweight,Young Adult,0
+1627.28245,Normalweight,Young Adult,2
+8556.907,obese,Senior Adult,0
+3062.50825,obese,Young Adult,2
+19539.243000000002,Overweight,Senior Adult,3
+1906.35825,Overweight,Young Adult,2
+14210.53595,obese,Elder,0
+11833.7823,Normalweight,Elder,0
+17128.42608,obese,Young Adult,3
+5031.26955,Overweight,Young Adult,2
+7985.815,Normalweight,Senior Adult,0
+23065.4207,Overweight,Senior Adult,3
+5428.7277,obese,Young Adult,2
+36307.7983,obese,Young Adult,1
+3925.7582,obese,Young Adult,2
+2416.955,obese,Young Adult,2
+19040.876,Overweight,Young Adult,3
+3070.8087,Overweight,Young Adult,2
+9095.06825,Overweight,Senior Adult,0
+11842.62375,obese,Elder,0
+8062.764,obese,Senior Adult,0
+7050.642,Overweight,Senior Adult,2
+14319.031,obese,Elder,0
+6933.24225,Normalweight,Senior Adult,2
+27941.28758,obese,Elder,3
+11150.78,Overweight,Senior Adult,0
+12797.20962,obese,Senior Adult,0
+17748.5062,Overweight,Young Adult,3
+7261.741,obese,Senior Adult,2
+10560.4917,obese,Senior Adult,0
+6986.696999999999,obese,Senior Adult,2
+7448.40395,obese,Senior Adult,2
+5934.3798,obese,Young Adult,2
+9869.8102,Overweight,Senior Adult,0
+18259.216,Normalweight,Young Adult,3
+1146.7966,obese,Young Adult,2
+9386.1613,obese,Senior Adult,0
+24520.264,Overweight,Senior Adult,3
+4350.5144,Overweight,Young Adult,2
+6414.178000000001,Overweight,Young Adult,2
+12741.16745,obese,Elder,0
+1917.3184,obese,Young Adult,2
+5209.57885,Normalweight,Young Adult,2
+13457.9608,Overweight,Elder,0
+5662.225,obese,Senior Adult,2
+1252.407,Overweight,Young Adult,2
+2731.9122,Normalweight,Young Adult,2
+21195.818,Normalweight,Senior Adult,3
+7209.4918,obese,Senior Adult,2
+18310.742,Overweight,Young Adult,3
+4266.1658,obese,Young Adult,2
+4719.52405,Normalweight,Young Adult,2
+11848.141000000001,obese,Elder,0
+17904.52705,Overweight,Young Adult,3
+7046.7222,Overweight,Senior Adult,2
+14313.8463,obese,Elder,0
+2103.08,Normalweight,Young Adult,2
+38792.6856,obese,Young Adult,1
+1815.8759,Overweight,Young Adult,2
+7731.85785,obese,Senior Adult,2
+28476.734989999997,obese,Senior Adult,3
+2136.88225,obese,Young Adult,2
+1131.5066,obese,Young Adult,2
+3309.7926,Overweight,Young Adult,2
+9414.92,obese,Senior Adult,0
+6360.9936,obese,Young Adult,2
+11013.7119,Normalweight,Senior Adult,0
+4428.88785,Normalweight,Young Adult,2
+5584.3057,obese,Senior Adult,2
+1877.9294,obese,Young Adult,2
+2842.76075,Normalweight,Young Adult,2
+3597.5959999999995,obese,Young Adult,2
+23401.30575,Overweight,Senior Adult,3
+55135.402089999996,obese,Young Adult,1
+7445.918000000001,obese,Senior Adult,2
+2680.9493,Underweight,Young Adult,2
+1621.8827,obese,Young Adult,2
+8219.2039,Overweight,Senior Adult,0
+12523.6048,Normalweight,Elder,0
+16069.08475,obese,Elder,0
+43813.8661,obese,Elder,1
+20773.62775,Overweight,Senior Adult,3
+39597.4072,obese,Senior Adult,1
+6117.4945,Normalweight,Senior Adult,2
+13393.756000000001,obese,Elder,0
+5266.3656,Overweight,Senior Adult,2
+4719.73655,Normalweight,Young Adult,2
+11743.9341,obese,Elder,0
+5377.4578,obese,Senior Adult,2
+7160.3303,obese,Senior Adult,2
+4402.233,obese,Senior Adult,2
+11657.7189,Overweight,Elder,0
+6402.29135,Normalweight,Young Adult,2
+12622.1795,obese,Elder,0
+1526.3120000000001,obese,Young Adult,2
+12323.936000000002,Overweight,Elder,0
+36021.0112,obese,Young Adult,1
+27533.9129,Overweight,Elder,3
+10072.05505,obese,Senior Adult,0
+45008.9555,obese,Elder,1
+9872.701,obese,Senior Adult,0
+2438.0552,obese,Young Adult,2
+2974.1259999999997,Normalweight,Young Adult,2
+10601.63225,obese,Senior Adult,0
+37270.1512,obese,Senior Adult,1
+14119.62,obese,Elder,0
+42111.6647,obese,Senior Adult,1
+11729.6795,Normalweight,Senior Adult,0
+24106.91255,Normalweight,Senior Adult,3
+1875.344,Overweight,Young Adult,2
+40974.1649,obese,Senior Adult,1
+15817.9857,Normalweight,Young Adult,0
+18218.16139,obese,Young Adult,3
+10965.446000000002,Overweight,Elder,0
+46113.511,obese,Senior Adult,1
+7151.092,Overweight,Senior Adult,2
+12269.68865,obese,Senior Adult,0
+5458.04645,Normalweight,Senior Adult,2
+8782.469000000001,Overweight,Senior Adult,0
+6600.361,Overweight,Senior Adult,2
+1141.4451,obese,Young Adult,2
+11576.13,obese,Elder,0
+13129.60345,Normalweight,Elder,0
+4391.652,Normalweight,Young Adult,2
+8457.818000000001,obese,Senior Adult,0
+3392.3652,Overweight,Young Adult,2
+5966.8874,Overweight,Senior Adult,2
+6849.026,obese,Senior Adult,2
+8891.1395,Normalweight,Senior Adult,0
+2690.1138,Overweight,Young Adult,2
+26140.3603,Overweight,Senior Adult,3
+6653.7886,obese,Young Adult,2
+6282.235,Overweight,Senior Adult,2
+6311.951999999999,Overweight,Senior Adult,2
+3443.0640000000003,obese,Young Adult,2
+2789.0574,Overweight,Young Adult,2
+2585.85065,Normalweight,Young Adult,2
+46255.1125,obese,Senior Adult,1
+4877.98105,Overweight,Young Adult,2
+19719.6947,Overweight,Young Adult,3
+27218.43725,Overweight,Elder,3
+5272.1758,obese,Senior Adult,2
+1682.5970000000002,obese,Young Adult,2
+11945.1327,obese,Elder,0
+29330.98315,Overweight,Elder,3
+7243.8136,Overweight,Senior Adult,2
+10422.91665,Normalweight,Senior Adult,0
+44202.6536,obese,Senior Adult,1
+13555.0049,obese,Elder,0
+13063.883,obese,Elder,0
+19798.05455,Normalweight,Senior Adult,3
+2221.56445,Overweight,Young Adult,2
+1634.5734,obese,Young Adult,2
+2117.33885,Normalweight,Young Adult,2
+8688.85885,Normalweight,Senior Adult,0
+48673.5588,obese,Elder,1
+4661.28635,Overweight,Young Adult,2
+8125.7845,obese,Senior Adult,0
+12644.589,obese,Elder,0
+4564.19145,Overweight,Young Adult,2
+4846.92015,obese,Young Adult,2
+7633.7206,obese,Senior Adult,2
+15170.069,obese,Elder,0
+17496.306,Overweight,Young Adult,3
+2639.0429,Overweight,Young Adult,2
+33732.6867,obese,Young Adult,1
+14382.70905,Overweight,Elder,0
+7626.993,Overweight,Senior Adult,2
+5257.50795,Overweight,Young Adult,2
+2473.3341,obese,Young Adult,2
+21774.32215,Overweight,Senior Adult,3
+35069.37452,Normalweight,Senior Adult,1
+13041.921,Overweight,Elder,0
+5245.2269,obese,Young Adult,2
+13451.122,Overweight,Elder,0
+13462.52,obese,Elder,0
+5488.262,obese,Senior Adult,2
+4320.41085,obese,Young Adult,2
+6250.435,Normalweight,Senior Adult,2
+25333.33284,obese,Senior Adult,3
+2913.5690000000004,Normalweight,Young Adult,2
+12032.326000000001,Normalweight,Elder,0
+13470.8044,obese,Elder,0
+6289.7549,obese,Senior Adult,2
+2927.0647,obese,Young Adult,2
+6238.298000000001,obese,Senior Adult,2
+10096.97,Overweight,Senior Adult,0
+7348.142,obese,Senior Adult,2
+4673.3922,obese,Young Adult,2
+12233.828000000001,Overweight,Elder,0
+32108.662819999998,Overweight,Senior Adult,1
+8965.79575,Normalweight,Senior Adult,0
+2304.0022,Overweight,Young Adult,2
+9487.6442,Overweight,Senior Adult,0
+1121.8739,Normalweight,Young Adult,2
+9549.5651,obese,Senior Adult,0
+2217.46915,obese,Young Adult,2
+1628.4709,Normalweight,Young Adult,2
+12982.8747,obese,Elder,0
+11674.13,obese,Elder,0
+7160.094,obese,Senior Adult,2
+39047.285,obese,Senior Adult,1
+6358.77645,obese,Senior Adult,2
+19933.458,Overweight,Young Adult,3
+11534.87265,Underweight,Elder,0
+47462.894,obese,Senior Adult,1
+4527.18295,Overweight,Young Adult,2
+38998.546,obese,Senior Adult,1
+20009.63365,Overweight,Young Adult,3
+3875.7341,obese,Young Adult,2
+41999.52,obese,Senior Adult,1
+12609.88702,Overweight,Young Adult,0
+41034.2214,obese,Senior Adult,1
+28468.91901,obese,Senior Adult,3
+2730.10785,obese,Young Adult,2
+3353.284,Overweight,Young Adult,2
+14474.675,obese,Elder,0
+9500.57305,Overweight,Senior Adult,0
+26467.09737,obese,Senior Adult,3
+4746.344,Overweight,Young Adult,2
+23967.38305,Overweight,Senior Adult,3
+7518.02535,Overweight,Senior Adult,2
+3279.86855,Overweight,Young Adult,2
+8596.8278,obese,Senior Adult,0
+10702.6424,Overweight,Senior Adult,0
+4992.3764,Normalweight,Young Adult,2
+2527.81865,Normalweight,Young Adult,2
+1759.338,obese,Young Adult,2
+2322.6218,obese,Young Adult,2
+16138.76205,Normalweight,Young Adult,0
+7804.1605,obese,Senior Adult,0
+2902.9065,Overweight,Young Adult,2
+9704.66805,obese,Senior Adult,0
+4889.0368,Overweight,Senior Adult,2
+25517.11363,Overweight,Senior Adult,3
+4500.33925,Normalweight,Young Adult,2
+19199.944,Overweight,Young Adult,3
+16796.41194,obese,Young Adult,0
+4915.05985,obese,Young Adult,2
+7624.63,Overweight,Senior Adult,2
+8410.04685,obese,Senior Adult,0
+28340.18885,Overweight,Senior Adult,3
+4518.82625,obese,Young Adult,2
+14571.8908,Normalweight,Young Adult,0
+3378.91,Normalweight,Young Adult,2
+7144.86265,Overweight,Senior Adult,2
+10118.424,obese,Senior Adult,0
+5484.4673,Overweight,Senior Adult,2
+16420.49455,Normalweight,Young Adult,0
+7986.47525,Normalweight,Senior Adult,0
+7418.522,obese,Senior Adult,2
+13887.9685,obese,Elder,0
+6551.7501,obese,Young Adult,2
+5267.81815,Overweight,Senior Adult,2
+17361.7661,Normalweight,Young Adult,3
+34472.841,obese,Young Adult,1
+1972.95,Overweight,Young Adult,2
+21232.182259999998,Overweight,Senior Adult,3
+8627.5411,Normalweight,Senior Adult,0
+4433.3877,obese,Young Adult,2
+4438.2634,Overweight,Young Adult,2
+24915.22085,Overweight,Senior Adult,3
+23241.47453,Overweight,Young Adult,3
+9957.7216,Overweight,Senior Adult,0
+8269.044,Normalweight,Senior Adult,0
+18767.7377,Normalweight,Senior Adult,3
+36580.28216,obese,Elder,1
+8765.249,obese,Senior Adult,0
+5383.536,Overweight,Senior Adult,2
+12124.9924,Overweight,Elder,0
+2709.24395,Overweight,Young Adult,2
+3987.926,obese,Young Adult,2
+12495.29085,obese,Senior Adult,0
+26018.95052,obese,Young Adult,3
+8798.593,obese,Senior Adult,0
+35595.5898,obese,Young Adult,1
+42211.1382,obese,Senior Adult,1
+1711.0268,Normalweight,Young Adult,2
+8569.8618,obese,Senior Adult,0
+2020.1770000000001,obese,Young Adult,2
+16450.8947,Overweight,Young Adult,0
+21595.38229,Normalweight,Young Adult,3
+9850.431999999999,obese,Senior Adult,0
+6877.9801,Underweight,Senior Adult,2
+21677.28345,Normalweight,Senior Adult,3
+44423.803,obese,Senior Adult,1
+4137.5227,Overweight,Young Adult,2
+13747.87235,Normalweight,Young Adult,0
+12950.0712,obese,Elder,0
+12094.478000000001,Normalweight,Senior Adult,0
+37484.4493,obese,Young Adult,1
+39725.51805,obese,Senior Adult,1
+2250.8352,Overweight,Young Adult,2
+22493.65964,Overweight,Young Adult,3
+20234.85475,Overweight,Young Adult,3
+1704.70015,Normalweight,Young Adult,2
+33475.81715,obese,Young Adult,1
+3161.454,Overweight,Young Adult,2
+11394.06555,obese,Senior Adult,0
+21880.82,Overweight,Senior Adult,3
+7325.0482,Overweight,Senior Adult,2
+44501.3982,obese,Young Adult,1
+3594.17085,Normalweight,Young Adult,2
+39727.614,obese,Senior Adult,1
+8023.13545,obese,Senior Adult,0
+14394.5579,Overweight,Elder,0
+9288.0267,Overweight,Senior Adult,0
+25309.488999999998,Overweight,Senior Adult,3
+3353.4703,Normalweight,Young Adult,2
+10594.50155,Overweight,Senior Adult,0
+8277.523000000001,Overweight,Senior Adult,0
+17929.303369999998,obese,Senior Adult,3
+2480.9791,obese,Young Adult,2
+4462.7218,obese,Young Adult,2
+1981.5819,obese,Young Adult,2
+11554.2236,Overweight,Elder,0
+48970.2476,obese,Elder,1
+6548.19505,Overweight,Senior Adult,2
+5708.866999999999,Overweight,Young Adult,2
+7045.499,Overweight,Senior Adult,2
+8978.1851,obese,Senior Adult,0
+5757.41345,obese,Senior Adult,2
+14349.8544,Normalweight,Elder,0
+10928.848999999998,obese,Senior Adult,0
+39871.7043,obese,Senior Adult,1
+13974.45555,obese,Elder,0
+1909.52745,obese,Young Adult,2
+12096.6512,Overweight,Senior Adult,0
+13204.28565,Underweight,Elder,0
+4562.8421,Overweight,Young Adult,2
+8551.347,obese,Senior Adult,0
+2102.2647,Overweight,Young Adult,2
+34672.1472,obese,Young Adult,1
+15161.5344,obese,Elder,0
+11884.04858,Normalweight,Young Adult,0
+4454.40265,Overweight,Young Adult,2
+5855.9025,Normalweight,Senior Adult,2
+4076.4970000000003,obese,Young Adult,2
+15019.76005,obese,Elder,0
+19023.26,Underweight,Senior Adult,3
+10796.35025,Overweight,Senior Adult,0
+11353.2276,obese,Elder,0
+9748.9106,obese,Senior Adult,0
+10577.087,Normalweight,Elder,0
+41676.0811,obese,Senior Adult,1
+11286.5387,Overweight,Senior Adult,0
+3591.48,obese,Young Adult,2
+33907.547999999995,obese,Young Adult,1
+11299.343,obese,Senior Adult,0
+4561.1885,obese,Young Adult,2
+44641.1974,obese,Senior Adult,1
+1674.6323,obese,Young Adult,2
+23045.56616,obese,Senior Adult,3
+3227.1211,obese,Young Adult,2
+16776.30405,Normalweight,Young Adult,0
+11253.421,Overweight,Senior Adult,0
+3471.4096,obese,Young Adult,2
+11363.2832,obese,Elder,0
+20420.60465,Overweight,Senior Adult,3
+10338.9316,obese,Senior Adult,0
+8988.15875,Overweight,Senior Adult,0
+10493.9458,Overweight,Senior Adult,0
+2904.0879999999997,Overweight,Young Adult,2
+8605.3615,Normalweight,Senior Adult,0
+11512.405,obese,Senior Adult,0
+41949.2441,obese,Senior Adult,1
+24180.9335,Overweight,Senior Adult,3
+5312.16985,Overweight,Young Adult,2
+2396.0959,Overweight,Young Adult,2
+10807.4863,obese,Senior Adult,0
+9222.4026,Overweight,Senior Adult,0
+36124.5737,obese,Young Adult,1
+38282.7495,obese,Young Adult,1
+5693.4305,Normalweight,Young Adult,2
+34166.273,obese,Young Adult,1
+8347.1643,obese,Senior Adult,0
+46661.4424,obese,Senior Adult,1
+18903.49141,obese,Young Adult,3
+40904.1995,obese,Young Adult,1
+14254.6082,Overweight,Elder,0
+10214.636,Overweight,Senior Adult,0
+5836.5204,obese,Young Adult,2
+14358.36437,obese,Young Adult,0
+1728.8970000000002,Normalweight,Young Adult,2
+8582.3023,Normalweight,Senior Adult,0
+3693.428,obese,Young Adult,2
+20709.02034,obese,Elder,3
+9991.03765,Underweight,Senior Adult,0
+19673.335730000003,obese,Young Adult,3
+11085.5868,Overweight,Senior Adult,0
+7623.518,Overweight,Senior Adult,2
+3176.2877,Normalweight,Young Adult,2
+3704.3545,obese,Young Adult,2
+36898.73308,obese,Young Adult,1
+9048.0273,obese,Senior Adult,0
+7954.517,obese,Senior Adult,0
+27117.99378,Overweight,Senior Adult,3
+6338.0756,obese,Senior Adult,2
+9630.396999999999,obese,Senior Adult,0
+11289.10925,obese,Senior Adult,0
+52590.82939,obese,Elder,1
+2261.5688,obese,Young Adult,2
+10791.96,Normalweight,Senior Adult,0
+5979.731,obese,Senior Adult,2
+2203.73595,obese,Young Adult,2
+12235.8392,obese,Elder,0
+40941.2854,obese,Senior Adult,1
+5630.45785,obese,Young Adult,2
+11015.1747,Overweight,Senior Adult,0
+7228.21565,Normalweight,Senior Adult,2
+39722.7462,obese,Young Adult,1
+14426.07385,Normalweight,Young Adult,0
+2459.7201,obese,Young Adult,2
+3989.841,obese,Young Adult,2
+7727.2532,obese,Senior Adult,2
+5124.1887,obese,Young Adult,2
+18963.171919999997,obese,Young Adult,3
+2200.83085,Overweight,Young Adult,2
+7153.5539,Overweight,Senior Adult,2
+5227.98875,Overweight,Young Adult,2
+10982.5013,obese,Elder,0
+4529.477,Overweight,Young Adult,2
+4670.64,obese,Young Adult,2
+6112.35295,obese,Senior Adult,2
+17178.6824,Overweight,Young Adult,3
+22478.6,Overweight,Senior Adult,3
+11093.6229,obese,Elder,0
+6457.8434,Overweight,Senior Adult,2
+4433.9159,obese,Young Adult,2
+2154.361,Overweight,Young Adult,2
+23887.6627,Normalweight,Senior Adult,3
+6496.8859999999995,Overweight,Senior Adult,2
+2899.48935,obese,Young Adult,2
+19350.3689,Overweight,Young Adult,3
+7650.77375,obese,Senior Adult,2
+2850.68375,Overweight,Young Adult,2
+2632.992,obese,Young Adult,2
+9447.3824,Overweight,Senior Adult,0
+18328.2381,Overweight,Young Adult,3
+8603.8234,Normalweight,Senior Adult,0
+37465.34375,obese,Young Adult,1
+13844.7972,obese,Elder,0
+21771.3423,Overweight,Senior Adult,3
+13126.67745,Overweight,Young Adult,0
+5327.40025,obese,Young Adult,2
+13725.47184,Normalweight,Senior Adult,0
+13019.16105,obese,Elder,0
+8671.19125,obese,Senior Adult,0
+4134.08245,Normalweight,Young Adult,2
+18838.70366,Overweight,Young Adult,3
+33307.5508,obese,Young Adult,1
+5699.8375,obese,Senior Adult,2
+6393.60345,Overweight,Senior Adult,2
+4934.705,Overweight,Young Adult,2
+6198.7518,Normalweight,Senior Adult,2
+8733.22925,obese,Senior Adult,0
+2055.3249,obese,Young Adult,2
+9964.06,obese,Senior Adult,0
+18223.4512,Overweight,Young Adult,3
+5116.5004,Underweight,Young Adult,2
+36910.60803,obese,Elder,1
+38415.474,obese,Senior Adult,1
+20296.86345,Overweight,Senior Adult,3
+12347.171999999999,obese,Elder,0
+5373.36425,obese,Senior Adult,2
+23563.016180000002,obese,Senior Adult,3
+1702.4553,Normalweight,Young Adult,2
+10806.839,obese,Senior Adult,0
+3956.07145,obese,Young Adult,2
+12890.05765,obese,Young Adult,0
+5415.6612,Overweight,Senior Adult,2
+4058.1161,obese,Young Adult,2
+41661.602,obese,Senior Adult,1
+7537.1639,obese,Senior Adult,2
+4718.20355,Normalweight,Young Adult,2
+6593.5083,Overweight,Senior Adult,2
+8442.667,Overweight,Senior Adult,0
+26125.674769999998,Normalweight,Young Adult,3
+6858.4796,Normalweight,Senior Adult,2
+4795.6568,obese,Young Adult,2
+6640.54485,Underweight,Senior Adult,2
+7162.0122,obese,Senior Adult,2
+10594.2257,obese,Elder,0
+11938.25595,obese,Elder,0
+60021.39897,obese,Senior Adult,1
+20167.336030000002,Normalweight,Young Adult,3
+12479.70895,Overweight,Senior Adult,0
+11345.518999999998,Normalweight,Elder,0
+8515.7587,Overweight,Senior Adult,0
+2699.56835,obese,Young Adult,2
+14449.8544,Normalweight,Elder,0
+12224.35085,Overweight,Elder,0
+6985.50695,Normalweight,Senior Adult,2
+3238.4357,obese,Young Adult,2
+47269.85400000001,obese,Senior Adult,1
+49577.6624,obese,Elder,1
+4296.2712,Normalweight,Young Adult,2
+3171.6149,obese,Young Adult,2
+1135.9407,obese,Young Adult,2
+5615.369000000001,Normalweight,Young Adult,2
+9101.798,Overweight,Senior Adult,0
+6059.173000000001,Overweight,Young Adult,2
+1633.9618,obese,Young Adult,2
+37607.5277,obese,Young Adult,1
+18648.4217,Overweight,Young Adult,3
+1241.565,Normalweight,Young Adult,2
+16232.847,Overweight,Young Adult,0
+15828.821730000001,Overweight,Senior Adult,0
+4415.1588,Overweight,Young Adult,2
+6474.013000000001,obese,Senior Adult,2
+11436.73815,obese,Senior Adult,0
+11305.93455,Overweight,Senior Adult,0
+30063.58055,obese,Senior Adult,3
+10197.7722,Normalweight,Senior Adult,0
+4544.2348,Normalweight,Young Adult,2
+3277.1609999999996,obese,Young Adult,2
+6770.1925,Overweight,Senior Adult,2
+7337.7480000000005,Overweight,Senior Adult,2
+10370.91255,obese,Senior Adult,0
+26926.5144,Normalweight,Elder,3
+10704.47,obese,Senior Adult,0
+34254.05335,obese,Young Adult,1
+1880.487,obese,Young Adult,2
+8615.3,Overweight,Senior Adult,0
+3292.52985,obese,Young Adult,2
+3021.80915,obese,Young Adult,2
+14478.33015,Overweight,Senior Adult,0
+4747.0529,Overweight,Young Adult,2
+17043.3414,Overweight,Young Adult,3
+10959.33,Normalweight,Elder,0
+2741.948,obese,Young Adult,2
+4357.04365,Overweight,Young Adult,2
+22462.04375,Overweight,Senior Adult,3
+4189.1131,Overweight,Young Adult,2
+8283.6807,obese,Senior Adult,0
+24535.69855,Overweight,Senior Adult,3
+14283.4594,Normalweight,Young Adult,0
+1720.3537,obese,Young Adult,2
+47403.88,obese,Elder,1
+8534.6718,Normalweight,Senior Adult,0
+3732.6251,Underweight,Young Adult,2
+5472.4490000000005,Overweight,Senior Adult,2
+38344.566,obese,Young Adult,1
+7147.4728,obese,Senior Adult,2
+7133.9025,Normalweight,Senior Adult,2
+34828.654,obese,Young Adult,1
+1515.3449,Normalweight,Young Adult,2
+9301.89355,Overweight,Senior Adult,0
+11931.12525,Overweight,Elder,0
+1964.78,Normalweight,Young Adult,2
+1708.92575,Overweight,Young Adult,2
+4340.4409,Overweight,Young Adult,2
+5261.46945,Overweight,Young Adult,2
+2710.82855,Overweight,Young Adult,2
+62592.87309,obese,Senior Adult,1
+46718.16325,obese,Elder,1
+3208.7870000000003,Normalweight,Young Adult,2
+37829.7242,Overweight,Senior Adult,1
+21259.37795,Overweight,Senior Adult,3
+2464.6188,Overweight,Young Adult,2
+16115.3045,Normalweight,Young Adult,0
+21472.4788,Overweight,Young Adult,3
+33900.653,obese,Young Adult,1
+6875.960999999999,obese,Senior Adult,2
+6940.90985,Overweight,Senior Adult,2
+4571.41305,Overweight,Young Adult,2
+4536.259,obese,Young Adult,2
+36397.576,obese,Young Adult,1
+18765.87545,Normalweight,Young Adult,3
+11272.331390000001,Overweight,Young Adult,0
+1731.6770000000001,Normalweight,Young Adult,2
+1163.4627,obese,Young Adult,2
+19496.71917,obese,Young Adult,3
+7201.70085,Overweight,Senior Adult,2
+5425.02335,obese,Young Adult,2
+28101.33305,Overweight,Elder,3
+12981.3457,obese,Elder,0
+43896.3763,obese,Senior Adult,1
+4239.89265,Overweight,Young Adult,2
+13143.33665,obese,Elder,0
+7050.0213,obese,Senior Adult,2
+9377.9047,obese,Senior Adult,0
+22395.74424,Normalweight,Young Adult,3
+10325.206,obese,Senior Adult,0
+12629.1656,Overweight,Elder,0
+10795.937329999999,obese,Young Adult,0
+11411.685,obese,Senior Adult,0
+10600.5483,obese,Senior Adult,0
+2205.9808,obese,Young Adult,2
+1629.8335,obese,Young Adult,2
+2007.945,Overweight,Young Adult,2
+29141.3603,Overweight,Elder,3
